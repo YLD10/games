@@ -1,0 +1,9 @@
+﻿  compilation object save succeeded; see C:\Games_Files\games_c++\App1\Debug\App1\SamplePixelShader.cso
+  compilation object save succeeded; see C:\Games_Files\games_c++\App1\Debug\App1\SampleVertexShader.cso
+  pch.cpp
+  App.cpp
+  DeviceResources.cpp
+  App1Main.cpp
+  SampleFpsTextRenderer.cpp
+  Sample3DSceneRenderer.cpp
+  App1.vcxproj -> C:\Games_Files\games_c++\App1\Debug\App1\App1.exe
